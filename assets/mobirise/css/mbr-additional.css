@@ -1236,35 +1236,46 @@ a {
 .cid-ssPdGb6a0A .card-box {
   color: #156000;
 }
-.cid-ssPgQJSPVf {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
+.cid-stcAIIYraT {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/mbr-2.jpg");
 }
-.cid-ssPgQJSPVf .image-wrapper {
+.cid-stcAIIYraT .image-wrapper {
   display: flex;
   align-items: center;
 }
-.cid-ssPgQJSPVf .card-wrapper {
+.cid-stcAIIYraT .card-wrapper {
   margin-bottom: 2rem;
   display: flex;
   border-radius: 4px;
   background: #fafafa;
 }
 @media (max-width: 991px) {
-  .cid-ssPgQJSPVf .card-wrapper {
+  .cid-stcAIIYraT .card-wrapper {
     padding: 1rem 2rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-ssPgQJSPVf .card-wrapper {
+  .cid-stcAIIYraT .card-wrapper {
     padding: 2rem 4rem;
   }
 }
-.cid-ssPgQJSPVf .mbr-iconfont {
+.cid-stcAIIYraT .mbr-iconfont {
   font-size: 2rem;
   padding-right: 1.5rem;
   color: #639ffa;
+}
+.cid-stcAIIYraT .mbr-section-title {
+  color: #ca0000;
+}
+.cid-stcAIIYraT P {
+  text-align: left;
+  color: #3e0000;
+}
+.cid-stcAIIYraT .card-title {
+  color: #176b00;
+  text-align: center;
 }
 .cid-ssPjDTQQsz {
   padding-top: 6rem;
